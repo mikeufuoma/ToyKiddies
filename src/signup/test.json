@@ -1,0 +1,87 @@
+{
+    "results": [
+      {
+        "address_components": [
+          {
+            "long_name": "Rumuepirikom/Iwofe Road",
+            "short_name": "Rumuepirikom/Iwofe Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Port Harcourt",
+            "short_name": "Port Harcourt",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Obio/Akpor",
+            "short_name": "Obio/Akpor",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Rivers",
+            "short_name": "RV",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Nigeria",
+            "short_name": "NG",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "500102",
+            "short_name": "500102",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Rumuepirikom/Iwofe Rd, 500102, Port Harcourt, Rivers, Nigeria",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 4.830599700000026,
+              "lng": 6.982143399999999
+            },
+            "southwest": {
+              "lat": 4.806842899999975,
+              "lng": 6.934561599999999
+            }
+          },
+          "location": {
+            "lat": 4.8193767,
+            "lng": 6.9567852
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": 4.830599700000026,
+              "lng": 6.982143399999999
+            },
+            "southwest": {
+              "lat": 4.806842899999975,
+              "lng": 6.934561599999999
+            }
+          }
+        },
+        "place_id": "Ej1SdW11ZXBpcmlrb20vSXdvZmUgUmQsIDUwMDEwMiwgUG9ydCBIYXJjb3VydCwgUml2ZXJzLCBOaWdlcmlhIi4qLAoUChIJp0DRUKjPaRAReLCriFz_MfcSFAoSCeNILJ-jzmkQEdsyiH3dK1ZT",
+        "types": [
+          "route"
+        ]
+      }
+    ],
+    "status": "OK"
+  }
