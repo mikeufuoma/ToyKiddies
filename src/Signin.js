@@ -158,7 +158,7 @@ const Signin = () => {
             <View style={{ flexDirection: "row", justifyContent: "space-between" }}>
               <Text style={{ alignSelf: 'flex-end', fontSize: width / 30, color: "#6A7187", marginVertical: width / 40 }}>Password</Text>
               <TouchableOpacity onPress={() => navigation.navigate('')}>
-                <Text style={{ alignSelf: 'flex-end', fontSize: width / 30, color: "#54448D", marginVertical: width / 40 }}>Forgot password?</Text>
+                {/* <Text style={{ alignSelf: 'flex-end', fontSize: width / 30, color: "#54448D", marginVertical: width / 40 }}>Forgot password?</Text> */}
               </TouchableOpacity>
             </View>
 
